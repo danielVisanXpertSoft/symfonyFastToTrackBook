@@ -15,6 +15,8 @@
         "symfony/yaml": "5.3.*"
     },
     "require-dev": {
+        "symfony/debug-bundle": "5.3.*",
+        "symfony/monolog-bundle": "^3.0",
         "symfony/stopwatch": "5.3.*",
         "symfony/web-profiler-bundle": "5.3.*"
     },
